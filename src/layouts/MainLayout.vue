@@ -1,5 +1,5 @@
 <template>
-  <q-layout view="lHh Lpr lFf" class="q-ml-xl">
+  <q-layout view="lHh Lpr lFf" class="q-ml-md">
     <h3>nifets.dev</h3>
 
     <q-list>
